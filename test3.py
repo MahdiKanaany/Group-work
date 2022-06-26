@@ -1,1 +1,2 @@
 print('salam')
+print ('hello')
