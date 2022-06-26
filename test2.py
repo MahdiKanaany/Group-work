@@ -1,1 +1,2 @@
-print ("helo")
+print ("hello")
+print ("lolo")
