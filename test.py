@@ -1,1 +1,1 @@
-ECHO is on.
+print ("test and test")
